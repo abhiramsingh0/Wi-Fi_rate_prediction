@@ -9,3 +9,7 @@ Base code is taken from the Machine learning course on coursera by prof. Andrew 
 Only required funtions are implemented and uploaded here.
 
 The purpose of uploading this project is only for help and not earning any money or any benefit from it.
+
+This project was done as part of Wireless Network course(cs743) in CSE IITBombay.
+
+Code is implemented in MATLAB.
